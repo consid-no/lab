@@ -6,6 +6,7 @@
 
 > Dette er et levende dokument som vokser med fellesskapet (forhåpentlig)
 
+Commit rett i nettleser, eller såklart:
 ```
 Klone → Endre → Pull Request → Merge
 ```
