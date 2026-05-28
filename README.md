@@ -128,6 +128,21 @@ Next.js → Prisma → PostgreSQL → Vercel
 - Styling: Tailwind CSS
 - Deploy: Vercel/Self-host/GCP
 
+#### 2.1 Enda modernere (end-to-end typesafe) B2B SPA Stack (no SEO/SSR)
+```
+PNPM monorepo → TypeScript → Vite → BiomeJS → React 
+```
+- Frontend: React + TypeScript
+- API: TanStack Query + tRPC
+- ORM: Prisma/Drizzle
+- Database: PostgreSQL
+- Validation: Zod
+- Routing: TanStack Router
+- Styling: CSS Modules
+- Deploy: github actions + selvvalgt
+- Build: Vite
+- Lint/Formatting: BiomeJS
+
 #### 3. Python Enterprise Stack
 ```
 FastAPI → SQLAlchemy → PostgreSQL → Kubernetes
